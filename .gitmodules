@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BTSR"]
+	path = BTSR
+	url = https://github.com/cran/BTSR
+	shallow = true
+	registered = true
+[submodule "DCCA"]
+	path = DCCA
+	url = https://github.com/cran/DCCA
+	shallow = true
+	registered = true
+[submodule "PPMiss"]
+	path = PPMiss
+	url = https://github.com/cran/PPMiss
+	shallow = true
+	registered = true
+[submodule "PTSR"]
+	path = PTSR
+	url = https://github.com/cran/PTSR
+	shallow = true
+	registered = true
