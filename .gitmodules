@@ -11,6 +11,9 @@
 [submodule "PPMiss"]
 	path = PPMiss
 	url = https://github.com/cran/PPMiss
+[submodule "PRTree"]
+	path = PRTree
+	url = https://github.com/cran/PRTree
 [submodule "PTSR"]
 	path = PTSR
 	url = https://github.com/cran/PTSR
