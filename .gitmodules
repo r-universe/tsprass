@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "BTSR"]
 	path = BTSR
-	url = https://github.com/cran/BTSR
+	url = https://github.com/tsprass/btsr
 [submodule "DCCA"]
 	path = DCCA
 	url = https://github.com/cran/DCCA
