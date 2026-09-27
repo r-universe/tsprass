@@ -13,7 +13,7 @@
 	url = https://github.com/cran/PPMiss
 [submodule "PRTree"]
 	path = PRTree
-	url = https://github.com/cran/PRTree
+	url = https://github.com/tsprass/prtree
 [submodule "PTSR"]
 	path = PTSR
 	url = https://github.com/cran/PTSR
