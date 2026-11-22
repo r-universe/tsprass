@@ -10,7 +10,7 @@
 	url = https://github.com/cran/DCCA
 [submodule "PPMiss"]
 	path = PPMiss
-	url = https://github.com/cran/PPMiss
+	url = https://github.com/tsprass/ppmiss
 [submodule "PRTree"]
 	path = PRTree
 	url = https://github.com/tsprass/prtree
